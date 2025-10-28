@@ -1,0 +1,17 @@
+body{width: 100vw;height: 100vh;display: flex;justify-content: center;align-items: center;
+     margin: 0;background-color: antiquewhite; font-family: "Red Hat Display", sans-serif;}
+
+.card{width: 450px;display: flex;flex-direction: column;justify-content: center;align-items: center;background-color: white;
+     border-radius: 10px;}
+
+.text{text-align: center;padding: 40px;}
+
+.picture{border-radius: 10px 10px 0 0 ;}
+
+.satauri{display: flex;flex-direction: column;justify-content: center;align-items: center;padding: 10px;}
+
+p{text-align:center ;color: #717FA6;}
+
+.fasi{background-color: #F7F9EF;display: flex;justify-content: space-around;align-items: center;}
+
+.noti{display: flex;align-items: center;gap: 20px;}
